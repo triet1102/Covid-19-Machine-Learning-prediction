@@ -5,4 +5,4 @@ https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_c
 
 Les exigences du projet sont décrites dans le fichier **Projet.pdf**
 
-Toutes les étapes d'analyse et d'analyse sont présentées dans **Rapport_ProjetIA_Tran_Triet.pdf**
+Toutes les étapes d'analyse sont présentées dans **Rapport_ProjetIA_Tran_Triet.pdf**
